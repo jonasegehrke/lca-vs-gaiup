@@ -42963,6 +42963,7 @@ const objekter = [
     }
   ]
 
+  console.log(objekter.length)
 
 
   const test = async() => {
@@ -42982,5 +42983,23 @@ const objekter = [
 
   
   }
+
+
+
+  const myLoop = (i) => {
+    setTimeout(async() => {
+      await fetch(objekter[i]['Ekstern url']).then((response) => {
+        if(response.status != 200){
+          console.log(objekter[i]['Ekstern id'])
+          console.log(objekter[i]['Title'])
+        }
+        i++
+        
+          myLoop(i)
+        
+      })
+    })
+  } 
+
 
   test()

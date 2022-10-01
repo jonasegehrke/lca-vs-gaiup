@@ -1,165 +1,175 @@
-LCAbyg,Gaiup
-1,2400
-1,2400
-1,1800
-1,1800
-1,2700
-1,2700
-1,7850
-1,2350
-1,2350
-1,2350
-1647,1.65
-9.32,0.932
-696,0.696
-1,2400
-1,2400
-1,2400
-1,2400
-1,2400
-1,2400
-1,210
-1,210
-1,210
-1,11342
-167.8000002,168
-167.8000002,168
-167.8000002,168
-167.8000002,168
-1,7850
-3691,3.691
-3691,3.691
-3691,3.691
-3691,3.691
-703,0.703
-703,0.703
-703,0.703
-1,500
-1,600
-1,7850
-13,1300
-13,1300
-1,1100
-1,1100
-1,1100
-156.82,157
-156.82,157
-156.82,157
-156.82,157
-5829,5.829
-5829,5.829
-5829,5.829
-1,1400
-1,1400
-1,1400
-1,1550
-1,1550
-1,1400
-1,1400
-1,1400
-1,1850
-1,1850
-1,1850
-1,1850
-1,1850
-1,1850
-1,1500
-1,1500
-773.33,773
-773.33,773
-773.33,773
-1116.7,1117
-1116.7,1117
-1116.7,1117
-1,1100
-1,1000
-1,1000
-1,10
-1,10
-1,10
-1,8750
-1,1500
-1,1500
-1,1500
-1,1070
-1,1070
-1,1070
-1,0.2
-1,0.2
-1,800
-1,400
-1,400
-1,400
-1,1200
-1,1200
-1,1200
-1,30
-1,30
-1,30
-1211.68,123
-1211.68,123
-1211.68,123
-1,1350
-1,1350
-1,1350
-1,1350
-1,1350
-1,1350
-1,1350
-1,1350
-1,1350
-1,1400
-1,1400
-1,1400
-29.5,1
-29.5,1
-29.5,1
-1,1320
-1,1320
-1,1320
-77,0.077
-77,0.077
-77,0.077
-1,7850
-1,7850
-1,7850
-1,7850
-1,7850
-1,7850
-1,7900
-1,7850
-1,7850
-1,7850
-1,7850
-1,7850
-1,7850
-1,2400
-1,2400
-1,2400
-1,2400
-1,2400
-1,2400
-1,2200
-1,2200
-1,2200
-1,400
-1,400
-1,400
-1,10
-1,10
-1,10
-4854.66,4855
-1,1400
-1,1400
-1,1400
-878,0.878
-878,0.878
-878,0.878
-878,0.878
-1014,1.014
-79,0.079
-79,0.079
-79,0.079
-3149,3.149
-3149,3.149
-3149,3.149
+LCA Material ID,LCA Material Name,Stage,Oekobaudat Link,LCA massValue,Oekobaudat massValue,massValue Difference,massValue Difference Percentage,LCA GWP,Oekobaudat GWP,GWP Difference,GWP Difference Percentage,LCA ODP,Oekobaudat ODP,ODP Difference,ODP Difference Percentage,LCA POCP,Oekobaudat POCP,POCP Difference,POCP Difference Percentage,LCA AP,Oekobaudat AP,AP Difference,AP Difference Percentage,LCA EP,Oekobaudat EP,EP Difference,EP Difference Percentage,LCA ADPE,Oekobaudat ADPE,ADPE Difference,ADPE Difference Percentage,LCA ADPF,Oekobaudat ADPF,ADPF Difference,ADPF Difference Percentage,LCA PERT,Oekobaudat PERT,PERT Difference,PERT Difference Percentage,LCA PENRT,Oekobaudat PENRT,PENRT Difference,PENRT Difference Percentage,LCA RSF,Oekobaudat RSF,RSF Difference,RSF Difference Percentage,LCA NRSF,Oekobaudat NRSF,NRSF Difference,NRSF Difference Percentage
+0973f221-2284-4892-ae3d-1b8c2986b6dd,"Afretningslag , cementbaseret",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=0973f221-2284-4892-ae3d-1b8c2986b6dd,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+0973f221-2284-4892-ae3d-1b8c2986b6dd,"Afretningslag , cementbaseret",C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=0973f221-2284-4892-ae3d-1b8c2986b6dd,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+e98995e0-f945-4fea-849f-cec0aff6cb0c,"Afretningslag , hårdeplast",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=e98995e0-f945-4fea-849f-cec0aff6cb0c,1.0,1800.0,1799.0,179900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+e98995e0-f945-4fea-849f-cec0aff6cb0c,"Afretningslag , hårdeplast",C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=e98995e0-f945-4fea-849f-cec0aff6cb0c,1.0,1800.0,1799.0,179900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+93eb05bd-e607-46de-8d7b-e0727f8d2400,"Aluminium , plade og profil , Genanvendelse",C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=93eb05bd-e607-46de-8d7b-e0727f8d2400,1.0,2700.0,2699.0,269900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+93eb05bd-e607-46de-8d7b-e0727f8d2400,"Aluminium , plade og profil , Genanvendelse",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=93eb05bd-e607-46de-8d7b-e0727f8d2400,1.0,2700.0,2699.0,269900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+e9ae96ee-ba8d-420d-9725-7c8abd06e082,Armeringsnet,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=e9ae96ee-ba8d-420d-9725-7c8abd06e082,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+85de02e5-2782-4050-9c01-c5de3849fbce,"Asfalt , bærelag",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=85de02e5-2782-4050-9c01-c5de3849fbce,1.0,2350.0,2349.0,234900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+85de02e5-2782-4050-9c01-c5de3849fbce,"Asfalt , bærelag",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=85de02e5-2782-4050-9c01-c5de3849fbce,1.0,2350.0,2349.0,234900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+85de02e5-2782-4050-9c01-c5de3849fbce,"Asfalt , bærelag",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=85de02e5-2782-4050-9c01-c5de3849fbce,1.0,2350.0,2349.0,234900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+b1efabb9-6371-4b96-9ee2-d1f11f9f3b25,Beslag til dreje - kip vinduer ( aluminium ),A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=b1efabb9-6371-4b96-9ee2-d1f11f9f3b25,1647.0,1.65,-1645.35,-99.89981785063752%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+72c69944-5250-4269-ad34-2e20e5e38231,Beslag til lodrette skydevinduer,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=72c69944-5250-4269-ad34-2e20e5e38231,9.32,0.932,-8.388,-89.99999999999999%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+00c28f1f-1d49-4c81-9208-138922a1dd6c,Beslag til vandrette skydevinduer,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=00c28f1f-1d49-4c81-9208-138922a1dd6c,696.0,0.696,-695.304,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+5a1cbf92-ed39-4e8c-bd01-5463bffb3c9d,"Betonrer , armeret",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=5a1cbf92-ed39-4e8c-bd01-5463bffb3c9d,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+5a1cbf92-ed39-4e8c-bd01-5463bffb3c9d,"Betonrer , armeret",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=5a1cbf92-ed39-4e8c-bd01-5463bffb3c9d,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+5a1cbf92-ed39-4e8c-bd01-5463bffb3c9d,"Betonrer , armeret",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=5a1cbf92-ed39-4e8c-bd01-5463bffb3c9d,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+0eada728-b626-4f79-ba67-020635b4e67f,"Betonrer , u - armeret",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=0eada728-b626-4f79-ba67-020635b4e67f,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+0eada728-b626-4f79-ba67-020635b4e67f,"Betonrer , u - armeret",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=0eada728-b626-4f79-ba67-020635b4e67f,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+0eada728-b626-4f79-ba67-020635b4e67f,"Betonrer , u - armeret",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=0eada728-b626-4f79-ba67-020635b4e67f,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+6b6b68f8-34a4-4a0f-97ee-714bf106c3e0,Bindelag,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=6b6b68f8-34a4-4a0f-97ee-714bf106c3e0,1.0,210.0,209.0,20900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+6b6b68f8-34a4-4a0f-97ee-714bf106c3e0,Bindelag,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=6b6b68f8-34a4-4a0f-97ee-714bf106c3e0,1.0,210.0,209.0,20900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+6b6b68f8-34a4-4a0f-97ee-714bf106c3e0,Bindelag,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=6b6b68f8-34a4-4a0f-97ee-714bf106c3e0,1.0,210.0,209.0,20900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+d596ddf7-aaf3-44cc-b7ae-faedc8d0870a,Blyplader,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=d596ddf7-aaf3-44cc-b7ae-faedc8d0870a,1.0,11342.0,11341.0,1134100.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+fbb81ecc-f707-4afb-bcce-758b6be6d337,Boksventilator 30.000 m³ / h,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=fbb81ecc-f707-4afb-bcce-758b6be6d337,167.8000002,168.0,0.1999998000000005,0.1191893919914313%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+fbb81ecc-f707-4afb-bcce-758b6be6d337,Boksventilator 30.000 m³ / h,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=fbb81ecc-f707-4afb-bcce-758b6be6d337,167.8000002,168.0,0.1999998000000005,0.1191893919914313%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+fbb81ecc-f707-4afb-bcce-758b6be6d337,Boksventilator 30.000 m³ / h,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=fbb81ecc-f707-4afb-bcce-758b6be6d337,167.8000002,168.0,0.1999998000000005,0.1191893919914313%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+fbb81ecc-f707-4afb-bcce-758b6be6d337,"Boksventilator 30.000 m³ / h ,",C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=fbb81ecc-f707-4afb-bcce-758b6be6d337,167.8000002,168.0,0.1999998000000005,0.1191893919914313%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+4d37d8f4-13db-418d-820d-5cf08f050eff,"Brugsvandsrer , rustfast stål",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=4d37d8f4-13db-418d-820d-5cf08f050eff,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+efabdf2d-993e-418c-ba86-85a3a91562a2,Decentralt ventilationsanlæg med varmegenvinding ( ...,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=efabdf2d-993e-418c-ba86-85a3a91562a2,3691.0,3.691,-3687.309,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+efabdf2d-993e-418c-ba86-85a3a91562a2,Decentralt ventilationsanlæg med varmegenvinding ( ...,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=efabdf2d-993e-418c-ba86-85a3a91562a2,3691.0,3.691,-3687.309,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+efabdf2d-993e-418c-ba86-85a3a91562a2,Decentralt ventilationsanlæg med varmegenvinding ( ...,C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=efabdf2d-993e-418c-ba86-85a3a91562a2,3691.0,3.691,-3687.309,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+efabdf2d-993e-418c-ba86-85a3a91562a2,Decentralt ventilationsanlæg med varmegenvinding ( ...,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=efabdf2d-993e-418c-ba86-85a3a91562a2,3691.0,3.691,-3687.309,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+4009e128-93ef-4835-8a51-2db91a6c7849,"Downlight armatur , 18W ( CFL , G24d )",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=4009e128-93ef-4835-8a51-2db91a6c7849,703.0,0.703,-702.297,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+4009e128-93ef-4835-8a51-2db91a6c7849,"Downlight armatur , 18W ( CFL , G24d )",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=4009e128-93ef-4835-8a51-2db91a6c7849,703.0,0.703,-702.297,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+4009e128-93ef-4835-8a51-2db91a6c7849,"Downlight armatur , 18W ( CFL , G24d )",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=4009e128-93ef-4835-8a51-2db91a6c7849,703.0,0.703,-702.297,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+3749834e-307f-4cb2-b903-4ef4bd463446,"Ekspanderet Ler , sand",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=3749834e-307f-4cb2-b903-4ef4bd463446,1.0,500.0,499.0,49900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+b76ded67-067b-47f6-b131-a73db86039b0,Ekspanderet skifer,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=b76ded67-067b-47f6-b131-a73db86039b0,1.0,600.0,599.0,59900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+41ecf1e2-3edd-41ab-8616-68a856c815a5,Fastgørelsesmidler / skruer i rustfrit stål,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=41ecf1e2-3edd-41ab-8616-68a856c815a5,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+e24f9f47-8580-45c2-b16d-45145d65a813,Fibercementplade,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=e24f9f47-8580-45c2-b16d-45145d65a813,13.0,1300.0,1287.0,9900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+e24f9f47-8580-45c2-b16d-45145d65a813,Fibercementplade,C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=e24f9f47-8580-45c2-b16d-45145d65a813,13.0,1300.0,1287.0,9900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+bc8d8fd4-6c25-4bd6-bcbf-6f994e8e5753,"Fugemasse , Silikone",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=bc8d8fd4-6c25-4bd6-bcbf-6f994e8e5753,1.0,1100.0,1099.0,109900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+bc8d8fd4-6c25-4bd6-bcbf-6f994e8e5753,"Fugemasse , Silikone",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=bc8d8fd4-6c25-4bd6-bcbf-6f994e8e5753,1.0,1100.0,1099.0,109900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+bc8d8fd4-6c25-4bd6-bcbf-6f994e8e5753,"Fugemasse , Silikone",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=bc8d8fd4-6c25-4bd6-bcbf-6f994e8e5753,1.0,1100.0,1099.0,109900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+d05d595c-7542-42e2-9a02-df9c8c75e567,Gas varmepumpe ( luft ) 20-70 kW,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=d05d595c-7542-42e2-9a02-df9c8c75e567,156.82,157.0,0.18000000000000682,0.11478127789823162%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+d05d595c-7542-42e2-9a02-df9c8c75e567,Gas varmepumpe ( luft ) 20-70 kW,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=d05d595c-7542-42e2-9a02-df9c8c75e567,156.82,157.0,0.18000000000000682,0.11478127789823162%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+d05d595c-7542-42e2-9a02-df9c8c75e567,Gas varmepumpe ( luft ) 20-70 kW,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=d05d595c-7542-42e2-9a02-df9c8c75e567,156.82,157.0,0.18000000000000682,0.11478127789823162%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+d05d595c-7542-42e2-9a02-df9c8c75e567,Gas varmepumpe ( luft ) 20-70 KW,C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=d05d595c-7542-42e2-9a02-df9c8c75e567,156.82,157.0,0.18000000000000682,0.11478127789823162%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+dd5333e6-ee1b-470c-be48-017a8753a80a,Gitterlampe 2x T8-36W ( LFL ),A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=dd5333e6-ee1b-470c-be48-017a8753a80a,5829.0,5.829,-5823.171,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+dd5333e6-ee1b-470c-be48-017a8753a80a,Gitterlampe 2x T8-36W ( LFL ),C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=dd5333e6-ee1b-470c-be48-017a8753a80a,5829.0,5.829,-5823.171,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+dd5333e6-ee1b-470c-be48-017a8753a80a,Gitterlampe 2x T8-36W ( LFL ),D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=dd5333e6-ee1b-470c-be48-017a8753a80a,5829.0,5.829,-5823.171,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+a051b8eb-5e03-486a-b9c3-bfc9d19234de,"Glasfiber - forstærket plast , polyester ( 30 % fiberandel ) ...",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=a051b8eb-5e03-486a-b9c3-bfc9d19234de,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+a051b8eb-5e03-486a-b9c3-bfc9d19234de,"Glasfiber - forstærket plast , polyester ( 30 % fiberandel ) ...",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=a051b8eb-5e03-486a-b9c3-bfc9d19234de,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+a051b8eb-5e03-486a-b9c3-bfc9d19234de,"Glasfiber - forstærket plast , polyester ( 30 % fiberandel ) ...",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=a051b8eb-5e03-486a-b9c3-bfc9d19234de,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+3a99d696-4911-45da-9f80-647ce214bca0,Grunder til silikonespuds,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=3a99d696-4911-45da-9f80-647ce214bca0,1.0,1550.0,1549.0,154900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+3a99d696-4911-45da-9f80-647ce214bca0,Grunder til silikonespuds,C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=3a99d696-4911-45da-9f80-647ce214bca0,1.0,1550.0,1549.0,154900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+de7fbcfc-0ee0-4e65-a1f9-af1551a20281,Grus 16/32 ( terret ),A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=de7fbcfc-0ee0-4e65-a1f9-af1551a20281,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+de7fbcfc-0ee0-4e65-a1f9-af1551a20281,Grus 16/32 ( terret ),C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=de7fbcfc-0ee0-4e65-a1f9-af1551a20281,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+de7fbcfc-0ee0-4e65-a1f9-af1551a20281,Grus 16/32 ( terret ),D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=de7fbcfc-0ee0-4e65-a1f9-af1551a20281,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+3ce61a4e-4d91-4b1d-b675-276be05b9225,Grus 2-32 mm,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=3ce61a4e-4d91-4b1d-b675-276be05b9225,1.0,1850.0,1849.0,184900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+3ce61a4e-4d91-4b1d-b675-276be05b9225,Grus 2-32 mm,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=3ce61a4e-4d91-4b1d-b675-276be05b9225,1.0,1850.0,1849.0,184900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+3ce61a4e-4d91-4b1d-b675-276be05b9225,Grus 2-32 mm,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=3ce61a4e-4d91-4b1d-b675-276be05b9225,1.0,1850.0,1849.0,184900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+e7b1d3c2-3494-4ae6-9f98-d4d507dcd0c2,"Grus 2-32 mm , tørret",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=e7b1d3c2-3494-4ae6-9f98-d4d507dcd0c2,1.0,1850.0,1849.0,184900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+e7b1d3c2-3494-4ae6-9f98-d4d507dcd0c2,"Grus 2-32 mm , tørret",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=e7b1d3c2-3494-4ae6-9f98-d4d507dcd0c2,1.0,1850.0,1849.0,184900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+e7b1d3c2-3494-4ae6-9f98-d4d507dcd0c2,"Grus 2-32 mm , tørret",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=e7b1d3c2-3494-4ae6-9f98-d4d507dcd0c2,1.0,1850.0,1849.0,184900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+34d3bb5e-f241-45b4-b257-123281364d97,Kalciumsulfat,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=34d3bb5e-f241-45b4-b257-123281364d97,1.0,1500.0,1499.0,149900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+34d3bb5e-f241-45b4-b257-123281364d97,Kalciumsulfat,C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=34d3bb5e-f241-45b4-b257-123281364d97,1.0,1500.0,1499.0,149900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+6e520eb3-0b5e-4c7a-b702-244f93faff73,"LPG tank 2700 1 / 1,2 t ( underjordisk )",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=6e520eb3-0b5e-4c7a-b702-244f93faff73,773.33,773.0,-0.3300000000000409,-0.04267259772671963%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+6e520eb3-0b5e-4c7a-b702-244f93faff73,"LPG tank 2700 1 / 1,2 t ( underjordisk )",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=6e520eb3-0b5e-4c7a-b702-244f93faff73,773.33,773.0,-0.3300000000000409,-0.04267259772671963%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+6e520eb3-0b5e-4c7a-b702-244f93faff73,"LPG tank 2700 1 / 1,2 t ( underjordisk )",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=6e520eb3-0b5e-4c7a-b702-244f93faff73,773.33,773.0,-0.3300000000000409,-0.04267259772671963%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+8595cc43-c24f-4002-8d2b-c9386de7fae4,"LPG tank 4850 1 / 2,1 t ( underjordisk )",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=8595cc43-c24f-4002-8d2b-c9386de7fae4,1116.7,1117.0,0.2999999999999545,0.026864869705377853%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+8595cc43-c24f-4002-8d2b-c9386de7fae4,"LPG tank 4850 1 / 2,1 t ( underjordisk )",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=8595cc43-c24f-4002-8d2b-c9386de7fae4,1116.7,1117.0,0.2999999999999545,0.026864869705377853%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+8595cc43-c24f-4002-8d2b-c9386de7fae4,"LPG tank 4850 1 / 2,1 t ( underjordisk )",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=8595cc43-c24f-4002-8d2b-c9386de7fae4,1116.7,1117.0,0.2999999999999545,0.026864869705377853%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+f8d6bd85-55e0-42d3-982b-b814387b7f58,Lavagrus,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=f8d6bd85-55e0-42d3-982b-b814387b7f58,1.0,1100.0,1099.0,109900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+43c3fd78-c67e-438b-b726-dd512df5d881,Lim til gipsplader,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=43c3fd78-c67e-438b-b726-dd512df5d881,1.0,1000.0,999.0,99900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+43c3fd78-c67e-438b-b726-dd512df5d881,Lim til gipsplader,C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=43c3fd78-c67e-438b-b726-dd512df5d881,1.0,1000.0,999.0,99900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+7082b2c3-5203-40ba-a6f8-d16edba60f5f,Melamin - skum,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=7082b2c3-5203-40ba-a6f8-d16edba60f5f,1.0,10.0,9.0,900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+7082b2c3-5203-40ba-a6f8-d16edba60f5f,Melamin - skum,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=7082b2c3-5203-40ba-a6f8-d16edba60f5f,1.0,10.0,9.0,900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+7082b2c3-5203-40ba-a6f8-d16edba60f5f,Melamin - skum,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=7082b2c3-5203-40ba-a6f8-d16edba60f5f,1.0,10.0,9.0,900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+d9ee3a94-83a2-4615-b071-9afa3aaeff42,Messing,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=d9ee3a94-83a2-4615-b071-9afa3aaeff42,1.0,8750.0,8749.0,874900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+78b7cd15-d82a-4ffa-ae08-870b6e5d35d4,"Mørtel , fliseklæber",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=78b7cd15-d82a-4ffa-ae08-870b6e5d35d4,1.0,1500.0,1499.0,149900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+78b7cd15-d82a-4ffa-ae08-870b6e5d35d4,"Mørtel , fliseklæber",C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=78b7cd15-d82a-4ffa-ae08-870b6e5d35d4,1.0,1500.0,1499.0,149900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+78b7cd15-d82a-4ffa-ae08-870b6e5d35d4,"Mørtel , fliseklæber",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=78b7cd15-d82a-4ffa-ae08-870b6e5d35d4,1.0,1500.0,1499.0,149900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+7511c948-c441-42fb-9ff1-cfdc54e58d7e,Nylonstøbning ( PA 6.6 ),A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=7511c948-c441-42fb-9ff1-cfdc54e58d7e,1.0,1070.0,1069.0,106900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+7511c948-c441-42fb-9ff1-cfdc54e58d7e,Nylonstøbning ( PA 6.6 ),C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=7511c948-c441-42fb-9ff1-cfdc54e58d7e,1.0,1070.0,1069.0,106900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+7511c948-c441-42fb-9ff1-cfdc54e58d7e,Nylonstøbning ( PA 6.6 ),D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=7511c948-c441-42fb-9ff1-cfdc54e58d7e,1.0,1070.0,1069.0,106900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+X,X,X,X,X,X,X,X,5075.0,5074.56990860242,-0.4300913975803269,-0.008474707341484273%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,57770.0,57768.8366321558,-1.1633678442012751,-0.0020137923562424703%,11410.0,11413.6344262982,3.6344262982001965,0.031852991219984195%,61270.0,61265.2086446905,-4.791355309498613,-0.007820067422064%,X,X,X,X,X,X,X,X
+X,X,X,X,X,X,X,X,-2099.0,-2099.25792823848,-0.2579282384799626,0.012288148569793359%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,-19860.0,-19862.4339488217,-2.433948821701051,0.012255532838373873%,-2060.0,-2060.36366156002,-0.3636615600198638,0.017653473787372028%,-20600.0,-20598.6557641514,1.3442358485990553,-0.006525416740772113%,X,X,X,X,X,X,X,X
+X,X,X,X,X,X,X,X,1755.0,1754.59175540011,-0.4082445998899402,-0.023261800563529358%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,20380.0,20378.680065925,-1.3199340749997646,-0.0064766146957790215%,3806.0,3806.45257524242,0.4525752424201528,0.011891099380455933%,21820.0,21818.4876944589,-1.5123055410986126,-0.006930822828132964%,X,X,X,X,X,X,X,X
+X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,-5993.0,-5993.33373177715,-0.33373177715020574,0.005568693094446951%,X,X,X,X,X,X,X,X
+X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,10650.0,10654.2206217263,4.220621726299214,0.03963025095116633%,X,X,X,X,11560.0,11559.1554713464,-0.8445286536007188,-0.007305611190317637%,X,X,X,X,X,X,X,X
+X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,-2116.0,-2115.85927673579,0.1407232642100098,-0.006650437817108214%,X,X,X,X,-2194.0,-2194.28041836128,-0.28041836128022624,0.012781146822252792%,X,X,X,X,X,X,X,X
+7baed44c-c80b-4340-b3af-f01d71fbbb43,"Overflade , Kalkmaling",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=7baed44c-c80b-4340-b3af-f01d71fbbb43,1.0,0.2,-0.8,-80.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+7baed44c-c80b-4340-b3af-f01d71fbbb43,"Overflade , Kalkmaling",C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=7baed44c-c80b-4340-b3af-f01d71fbbb43,1.0,0.2,-0.8,-80.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+81a76ff5-8928-4f71-8e1f-c7c78b7e5a95,Pimpsten 0-4 mm,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=81a76ff5-8928-4f71-8e1f-c7c78b7e5a95,1.0,800.0,799.0,79900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+1b69b3a2-3164-436b-a934-ed7d926f5f53,Plast profil SBR,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=1b69b3a2-3164-436b-a934-ed7d926f5f53,1.0,400.0,399.0,39900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+1b69b3a2-3164-436b-a934-ed7d926f5f53,Plast profil SBR,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=1b69b3a2-3164-436b-a934-ed7d926f5f53,1.0,400.0,399.0,39900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+1b69b3a2-3164-436b-a934-ed7d926f5f53,Plast profil SBR,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=1b69b3a2-3164-436b-a934-ed7d926f5f53,1.0,400.0,399.0,39900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,125156.0,125156.256519737,0.2565197369985981,0.00020495999951947814%,X,X,X,X,131926.0,131926.362632215,0.36263221499393694,0.0002748754718508383%,X,X,X,X,X,X,X,X
+X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,131242.0,131242.451026087,0.45102608698653057,0.0003436598703056419%,X,X,X,X,135740.0,135739.73086038,-0.26913962000980973,-0.0001982758361645865%,X,X,X,X,X,X,X,X
+6fc1267a-1f4d-4244-a65e-df8a0a3ccc50,Polycarbonatplade,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=6fc1267a-1f4d-4244-a65e-df8a0a3ccc50,1.0,1200.0,1199.0,119900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+6fc1267a-1f4d-4244-a65e-df8a0a3ccc50,Polycarbonatplade,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=6fc1267a-1f4d-4244-a65e-df8a0a3ccc50,1.0,1200.0,1199.0,119900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+6fc1267a-1f4d-4244-a65e-df8a0a3ccc50,Polycarbonatplade,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=6fc1267a-1f4d-4244-a65e-df8a0a3ccc50,1.0,1200.0,1199.0,119900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+65af52ac-382b-4069-aafe-b044b3960356,Polyethylen - skum,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=65af52ac-382b-4069-aafe-b044b3960356,1.0,30.0,29.0,2900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+65af52ac-382b-4069-aafe-b044b3960356,Polyethylen - skum,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=65af52ac-382b-4069-aafe-b044b3960356,1.0,30.0,29.0,2900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+65af52ac-382b-4069-aafe-b044b3960356,Polyethylen - skum,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=65af52ac-382b-4069-aafe-b044b3960356,1.0,30.0,29.0,2900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,124360.0,124360.214824028,0.2148240279930178,0.0001727436699847361%,X,X,X,X,130855.0,130854.640569456,-0.3594305440055905,-0.00027467849452110385%,X,X,X,X,X,X,X,X
+fbfe5992-4cd4-4875-867d-5e89cb453e2c,Rør til el - varmepumpe ( vand - vand ) 70 kW,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=fbfe5992-4cd4-4875-867d-5e89cb453e2c,1211.68,123.0,-1088.68,-89.84880496500726%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+fbfe5992-4cd4-4875-867d-5e89cb453e2c,Rør til el - varmepumpe ( vand - vand ) 70 kW,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=fbfe5992-4cd4-4875-867d-5e89cb453e2c,1211.68,123.0,-1088.68,-89.84880496500726%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+fbfe5992-4cd4-4875-867d-5e89cb453e2c,Rør til el - varmepumpe ( vand - vand ) 70 kW,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=fbfe5992-4cd4-4875-867d-5e89cb453e2c,1211.68,123.0,-1088.68,-89.84880496500726%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+61655387-edd4-4800-ba3e-67bc15f2f096,Sand 0-2 mm,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=61655387-edd4-4800-ba3e-67bc15f2f096,1.0,1350.0,1349.0,134900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+61655387-edd4-4800-ba3e-67bc15f2f096,Sand 0-2 mm,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=61655387-edd4-4800-ba3e-67bc15f2f096,1.0,1350.0,1349.0,134900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+61655387-edd4-4800-ba3e-67bc15f2f096,Sand 0-2 mm,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=61655387-edd4-4800-ba3e-67bc15f2f096,1.0,1350.0,1349.0,134900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+c1b237e1-2206-4318-8d99-f023b8aeb5d6,"Sand 0-2 mm , tørret",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=c1b237e1-2206-4318-8d99-f023b8aeb5d6,1.0,1350.0,1349.0,134900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+c1b237e1-2206-4318-8d99-f023b8aeb5d6,"Sand 0-2 mm , tørret",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=c1b237e1-2206-4318-8d99-f023b8aeb5d6,1.0,1350.0,1349.0,134900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+c1b237e1-2206-4318-8d99-f023b8aeb5d6,"Sand 0-2 mm , tørret",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=c1b237e1-2206-4318-8d99-f023b8aeb5d6,1.0,1350.0,1349.0,134900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+230cd2c6-0b79-461b-b51a-d092e66843ca,"Sand , knust , tørret",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=230cd2c6-0b79-461b-b51a-d092e66843ca,1.0,1350.0,1349.0,134900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+230cd2c6-0b79-461b-b51a-d092e66843ca,"Sand , knust , tørret",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=230cd2c6-0b79-461b-b51a-d092e66843ca,1.0,1350.0,1349.0,134900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+230cd2c6-0b79-461b-b51a-d092e66843ca,"Sand , knust , tørret",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=230cd2c6-0b79-461b-b51a-d092e66843ca,1.0,1350.0,1349.0,134900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+bd6aa879-e6e6-4181-afc5-1374b2f32dd1,Skærver 16-32 mm,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=bd6aa879-e6e6-4181-afc5-1374b2f32dd1,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+bd6aa879-e6e6-4181-afc5-1374b2f32dd1,Skærver 16-32 mm,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=bd6aa879-e6e6-4181-afc5-1374b2f32dd1,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+bd6aa879-e6e6-4181-afc5-1374b2f32dd1,Skærver 16-32 mm,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=bd6aa879-e6e6-4181-afc5-1374b2f32dd1,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+aa6822f9-a10e-45c9-a164-f08ebc994379,"Solvarmekollektor , vakuumrer",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=aa6822f9-a10e-45c9-a164-f08ebc994379,29.5,1.0,-28.5,-96.61016949152543%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+aa6822f9-a10e-45c9-a164-f08ebc994379,"Solvarmekollektor , vakuumrer",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=aa6822f9-a10e-45c9-a164-f08ebc994379,29.5,1.0,-28.5,-96.61016949152543%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+aa6822f9-a10e-45c9-a164-f08ebc994379,"Solvarmekollektor , vakuumrer",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=aa6822f9-a10e-45c9-a164-f08ebc994379,29.5,1.0,-28.5,-96.61016949152543%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+a4d16918-287f-43af-831d-baf80093fe4a,Stenmel 0/2,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=a4d16918-287f-43af-831d-baf80093fe4a,1.0,1320.0,1319.0,131900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+a4d16918-287f-43af-831d-baf80093fe4a,Stenmel 0/2,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=a4d16918-287f-43af-831d-baf80093fe4a,1.0,1320.0,1319.0,131900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+a4d16918-287f-43af-831d-baf80093fe4a,Stenmel 0/2,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=a4d16918-287f-43af-831d-baf80093fe4a,1.0,1320.0,1319.0,131900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+4cb7ca91-5be5-4fa6-99c1-99f597310351,Stikdåse,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=4cb7ca91-5be5-4fa6-99c1-99f597310351,77.0,0.077,-76.923,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+4cb7ca91-5be5-4fa6-99c1-99f597310351,Stikdåse,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=4cb7ca91-5be5-4fa6-99c1-99f597310351,77.0,0.077,-76.923,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+4cb7ca91-5be5-4fa6-99c1-99f597310351,Stikdåse,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=4cb7ca91-5be5-4fa6-99c1-99f597310351,77.0,0.077,-76.923,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+a255934e-5461-4501-9acf-20ad1b51b044,"Stål , Smedestål",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=a255934e-5461-4501-9acf-20ad1b51b044,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+531ab34f-6750-41a8-aedc-35cf4df3c8b1,"Stål , varmvalset plade , 2-20 mm",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=531ab34f-6750-41a8-aedc-35cf4df3c8b1,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+f34a799a-52de-4f69-a623-335f5be207d9,"Stål , varmvalset plade , Genanvendelse",C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=f34a799a-52de-4f69-a623-335f5be207d9,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+f34a799a-52de-4f69-a623-335f5be207d9,"Stål , varmvalset plade , Genanvendelse",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=f34a799a-52de-4f69-a623-335f5be207d9,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+9cbdbafe-8377-46ca-a640-8e3c8fc518c0,"Stålplade ( 0,3-3,0mm )",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=9cbdbafe-8377-46ca-a640-8e3c8fc518c0,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+93edef71-49e3-4e1f-ba6d-1e449e7d328d,Stålplade ( 20 mikrometer galvaniseret ),A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=93edef71-49e3-4e1f-ba6d-1e449e7d328d,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+88559403-7658-48f2-bac9-7986b4d0f4c2,"Stålplade , rustfri",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=88559403-7658-48f2-bac9-7986b4d0f4c2,1.0,7900.0,7899.0,789900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+38051c22-fbd1-4b0e-944a-ae348b8c7695,Stålprofil,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=38051c22-fbd1-4b0e-944a-ae348b8c7695,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+d9f045e5-ae07-4ae6-9fde-5346560411d8,"Stålprofil , Genanvendelse",C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=d9f045e5-ae07-4ae6-9fde-5346560411d8,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+d9f045e5-ae07-4ae6-9fde-5346560411d8,"Stålprofil , Genanvendelse",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=d9f045e5-ae07-4ae6-9fde-5346560411d8,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+8622539c-592c-45b0-9a4b-e5f8b4fea367,"Stålrer , gevindrer",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=8622539c-592c-45b0-9a4b-e5f8b4fea367,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+8622539c-592c-45b0-9a4b-e5f8b4fea367,"Stålrør , gevindrør",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=8622539c-592c-45b0-9a4b-e5f8b4fea367,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+8622539c-592c-45b0-9a4b-e5f8b4fea367,"Stålrør , gevindrør",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=8622539c-592c-45b0-9a4b-e5f8b4fea367,1.0,7850.0,7849.0,784900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+5bebcf89-2e6b-46ce-b05e-3e02929c8af4,Stebeasfalt,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=5bebcf89-2e6b-46ce-b05e-3e02929c8af4,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+ad94ce55-af1d-4da0-963c-bf263aaa37ee,Stebeasfalt,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=ad94ce55-af1d-4da0-963c-bf263aaa37ee,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+5bebcf89-2e6b-46ce-b05e-3e02929c8af4,Stebeasfalt,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=5bebcf89-2e6b-46ce-b05e-3e02929c8af4,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+ad94ce55-af1d-4da0-963c-bf263aaa37ee,Stebeasfalt,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=ad94ce55-af1d-4da0-963c-bf263aaa37ee,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+5bebcf89-2e6b-46ce-b05e-3e02929c8af4,Stebeasfalt,C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=5bebcf89-2e6b-46ce-b05e-3e02929c8af4,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+ad94ce55-af1d-4da0-963c-bf263aaa37ee,Stebeasfalt,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=ad94ce55-af1d-4da0-963c-bf263aaa37ee,1.0,2400.0,2399.0,239900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+f281ecaf-5754-4d27-8d70-cfd18780b192,"Teflon - membran , polytetrafluoroethylen ( PTFE )",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=f281ecaf-5754-4d27-8d70-cfd18780b192,1.0,2200.0,2199.0,219900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+f281ecaf-5754-4d27-8d70-cfd18780b192,"Teflon - membran , polytetrafluoroethylen ( PTFE )",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=f281ecaf-5754-4d27-8d70-cfd18780b192,1.0,2200.0,2199.0,219900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+f281ecaf-5754-4d27-8d70-cfd18780b192,"Teflon - membran , polytetrafluoroethylen ( PTFE )",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=f281ecaf-5754-4d27-8d70-cfd18780b192,1.0,2200.0,2199.0,219900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+31a96d5c-66a3-4de1-a957-6aa4f8f4e53d,"Tætningsliste , EPDB , ekstruderet",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=31a96d5c-66a3-4de1-a957-6aa4f8f4e53d,1.0,400.0,399.0,39900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+31a96d5c-66a3-4de1-a957-6aa4f8f4e53d,"Tætningsliste , EPDB , ekstruderet",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=31a96d5c-66a3-4de1-a957-6aa4f8f4e53d,1.0,400.0,399.0,39900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+31a96d5c-66a3-4de1-a957-6aa4f8f4e53d,"Tætningsliste , EPDB , ekstruderet",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=31a96d5c-66a3-4de1-a957-6aa4f8f4e53d,1.0,400.0,399.0,39900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+08bdbef6-9134-422f-8504-00eeee75d31f,Urea formaldehyd skum isolering,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=08bdbef6-9134-422f-8504-00eeee75d31f,1.0,10.0,9.0,900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+08bdbef6-9134-422f-8504-00eeee75d31f,Urea formaldehyd skum isolering,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=08bdbef6-9134-422f-8504-00eeee75d31f,1.0,10.0,9.0,900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+08bdbef6-9134-422f-8504-00eeee75d31f,Urea formaldehyd skum isolering,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=08bdbef6-9134-422f-8504-00eeee75d31f,1.0,10.0,9.0,900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+fbb56e56-29d6-408e-8941-fc37ed48fb11,"Varmepumpe , jordvarmesonde , 70 Kw",C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=fbb56e56-29d6-408e-8941-fc37ed48fb11,4854.66,4855.0,0.3400000000001455,0.00700358006534228%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,195140.0,195139.68927672,-0.31072328001027927,-0.00015923095214219498%,X,X,X,X,200738.0,200738.408747322,0.40874732201336883,0.00020362229473909712%,X,X,X,X,X,X,X,X
+5cc8769c-da1b-4967-bb4d-c8fe7b4c359d,Vegetationssubstrat,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=5cc8769c-da1b-4967-bb4d-c8fe7b4c359d,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+5cc8769c-da1b-4967-bb4d-c8fe7b4c359d,Vegetationssubstrat,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=5cc8769c-da1b-4967-bb4d-c8fe7b4c359d,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+5cc8769c-da1b-4967-bb4d-c8fe7b4c359d,Vegetationssubstrat,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=5cc8769c-da1b-4967-bb4d-c8fe7b4c359d,1.0,1400.0,1399.0,139900.0%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+c8cf7494-2f23-4193-a185-f7d4fdfa36b6,Ventilationsaggregat decentraliseret ( væg & loft ) 60 ...,C4,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=c8cf7494-2f23-4193-a185-f7d4fdfa36b6,878.0,0.878,-877.122,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+c8cf7494-2f23-4193-a185-f7d4fdfa36b6,Ventilationsanlæg decentraliseret ( væg & loft ) 60 m3 ...,A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=c8cf7494-2f23-4193-a185-f7d4fdfa36b6,878.0,0.878,-877.122,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+c8cf7494-2f23-4193-a185-f7d4fdfa36b6,Ventilationsanlæg decentraliseret ( væg & loft ) 60 m3 ...,C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=c8cf7494-2f23-4193-a185-f7d4fdfa36b6,878.0,0.878,-877.122,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+c8cf7494-2f23-4193-a185-f7d4fdfa36b6,Ventilationsanlæg decentraliseret ( væg & loft ) 60 m3 ...,D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=c8cf7494-2f23-4193-a185-f7d4fdfa36b6,878.0,0.878,-877.122,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+4bf26663-9018-47a1-943d-8ed4d3f87d0f,"Vinduesbeslag , aluminium",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=4bf26663-9018-47a1-943d-8ed4d3f87d0f,1014.0,1.014,-1012.986,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+bafc0f4a-7e8d-4536-b7b5-db8ca8f2ed75,Vippeafbryder ( lyskontakt ),A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=bafc0f4a-7e8d-4536-b7b5-db8ca8f2ed75,79.0,0.079,-78.921,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+bafc0f4a-7e8d-4536-b7b5-db8ca8f2ed75,Vippeafbryder ( lyskontakt ),C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=bafc0f4a-7e8d-4536-b7b5-db8ca8f2ed75,79.0,0.079,-78.921,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+bafc0f4a-7e8d-4536-b7b5-db8ca8f2ed75,Vippeafbryder ( lyskontakt ),D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=bafc0f4a-7e8d-4536-b7b5-db8ca8f2ed75,79.0,0.079,-78.921,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+69d4ee5a-c24f-4cc7-8f03-0d5828af4b5e,"Vådrumsarmatur til lysstofrør , T8-36W",A1 - A3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=69d4ee5a-c24f-4cc7-8f03-0d5828af4b5e,3149.0,3.149,-3145.851,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+69d4ee5a-c24f-4cc7-8f03-0d5828af4b5e,"Vådrumsarmatur til lysstofrør , T8-36W",C3,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=69d4ee5a-c24f-4cc7-8f03-0d5828af4b5e,3149.0,3.149,-3145.851,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+69d4ee5a-c24f-4cc7-8f03-0d5828af4b5e,"Vådrumsarmatur til lysstofrør , T8-36W",D,https://oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=69d4ee5a-c24f-4cc7-8f03-0d5828af4b5e,3149.0,3.149,-3145.851,-99.9%,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
